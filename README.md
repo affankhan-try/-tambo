@@ -1,7 +1,10 @@
 # -tambo
-
+Sorry I upload wrong file
 
 Built with Tambo's React SDK
+ 
+
+
 
 --> The Vision
 Static study tools are for Clones. The AI Study Helper is built for Jedis. Using Tambo's React SDK, this interface doesn't just display data - it adapts to the student's needs in real-time. Whether you are reviewing complex calculus or memorizing history dates, the AI chooses the most effective components to render for your specific learning style.
